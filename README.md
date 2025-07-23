@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi, I'm <span style="color:#c110e5;">Pavit Kaur</span> 👋</h1>
-<h3 align="center">🚀 A Passionate Coder & Data Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi, I'm <span style="color:#c110e5;">Pavit Kaur</span></h1>
+<h3 align="center">🚀 A Passionate Coder from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavit15&label=Profile%20Views&color=c110e5&style=plastic" alt="pavit15" />
