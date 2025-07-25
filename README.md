@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=pavit15&label=Profile%20Views&color=c110e5&style=plastic" alt="pavit15" />
 </p>
 ---
+
 ### GitHub Trophies🏆
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -12,6 +13,7 @@
   </a>
 </p>
 ---
+
 ### Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/pavit-kaur-8b990b279" target="_blank">
@@ -22,7 +24,8 @@
   </a>
 </p>
 ---
-### 🛠️ Languages & Tools I Use
+
+### Languages & Tools I Use
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
@@ -42,6 +45,7 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
 </p>
 ---
+
 ### My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavit15&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
