@@ -1,22 +1,18 @@
 <h1 align="center">Hi, I'm <span style="color:#c110e5;">Pavit Kaur</span></h1>
-<h3 align="center">🚀 A Passionate Coder from India</h3>
+<h3 align="center">A Passionate Coder from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavit15&label=Profile%20Views&color=c110e5&style=plastic" alt="pavit15" />
 </p>
-
 ---
-
-### 🏆 GitHub Trophies
+### GitHub Trophies🏆
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pavit15&theme=monokai&margin-w=15&column=6" alt="GitHub Trophies" />
   </a>
 </p>
-
 ---
-
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/pavit-kaur-8b990b279" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -25,9 +21,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
   </a>
 </p>
-
 ---
-
 ### 🛠️ Languages & Tools I Use
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
@@ -47,10 +41,8 @@
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
 </p>
-
 ---
-
-### 📊 GitHub Stats
+### My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavit15&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
