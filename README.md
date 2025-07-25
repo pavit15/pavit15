@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavit15&label=Profile%20Views&color=c110e5&style=plastic" alt="pavit15" />
 </p>
+
 ---
 
 ### GitHub Trophies🏆
@@ -12,6 +13,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=pavit15&theme=monokai&margin-w=15&column=6" alt="GitHub Trophies" />
   </a>
 </p>
+
 ---
 
 ### Connect with Me
@@ -23,6 +25,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
   </a>
 </p>
+
 ---
 
 ### Languages & Tools I Use
@@ -44,6 +47,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
 </p>
+
 ---
 
 ### My Stats
