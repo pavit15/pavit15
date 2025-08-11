@@ -28,27 +28,72 @@
 
 ---
 
-### Languages & Tools I Use
+### 🚀 Languages & Tools I Use  
+
+#### 🖥️ Programming Languages  
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://www.scala-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> C++
+  </a> &nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> Java
+  </a> &nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> Python
+  </a> &nbsp;&nbsp;
+  <a href="https://www.scala-lang.org" target="_blank" title="Scala">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="40" height="40"/> Scala
+  </a>
 </p>
 
----
+#### 📊 Data Science & Machine Learning  
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> Pandas
+  </a> &nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> Seaborn
+  </a> &nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" title="Scikit-learn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> Scikit-learn
+  </a> &nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> PyTorch
+  </a> &nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" title="TensorFlow">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> TensorFlow
+  </a>
+</p>
+
+#### 🗄️ Databases & Big Data  
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> MySQL
+  </a> &nbsp;&nbsp;
+  <a href="https://hadoop.apache.org/" target="_blank" title="Apache Hadoop">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/> Apache Hadoop
+  </a> &nbsp;&nbsp;
+  <a href="https://kafka.apache.org/" target="_blank" title="Apache Kafka">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/> Apache Kafka
+  </a>
+</p>
+
+#### 🛠️ Tools & Frameworks  
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> Git
+  </a> &nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank" title="OpenCV">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> OpenCV
+  </a> &nbsp;&nbsp;
+  <a href="https://www.mathworks.com/" target="_blank" title="MATLAB">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/> MATLAB
+  </a> &nbsp;&nbsp;
+  <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/> Arduino
+  </a>
+</p>
+
 
 ### My Stats
 <p align="center">
