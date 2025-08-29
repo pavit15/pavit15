@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=pavit15&label=Profile%20Views&color=c110e5&style=plastic" alt="pavit15" />
 </p>
 
----
 
 ### GitHub Trophies
 <p align="center">
@@ -14,23 +13,24 @@
   </a>
 </p>
 
----
-
-### Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/pavit-kaur-8b990b279" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://hashnode.com/@pavitkaur" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
-  </a>
+### 🔥 Contribution Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavit15&theme=tokyonight" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavit15&show_icons=true&hide=issues&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🚀 Languages & Tools I Use  
+### ✍️ Are you a reader?  
+Check out my programming blogs: [pavitkaur](https://keepingupwithai.hashnode.dev/)  
 
-#### 🖥️ Programming Languages  
+---
+
+### Languages & tools I am familiar with  
+
+#### Programming Languages  
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> C++
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-#### 📊 Data Science & Machine Learning  
+#### Data Science & Machine Learning  
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> Pandas
@@ -65,7 +65,7 @@
   </a>
 </p>
 
-#### 🗄️ Databases & Big Data  
+#### Databases & Big Data  
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> MySQL
@@ -78,7 +78,7 @@
   </a>
 </p>
 
-#### 🛠️ Tools & Frameworks  
+#### Tools & Frameworks  
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> Git
@@ -94,8 +94,11 @@
   </a>
 </p>
 
-
-### My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavit15&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+### 📫 How to reach me
+<p align="left">
+  <a href="https://linkedin.com/in/pavit-kaur-8b990b279" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    LinkedIn
+  </a>
 </p>
+
