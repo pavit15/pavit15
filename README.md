@@ -5,16 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=pavit15&label=Profile%20Views&color=c110e5&style=plastic" alt="pavit15" />
 </p>
 
-###  Contribution Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavit15&theme=tokyonight" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavit15&show_icons=true&hide=issues&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ###  Are you a reader?  
 Check out my programming blogs: [pavitkaur](https://keepingupwithai.hashnode.dev/)  
 
